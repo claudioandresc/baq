@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proyectos>
+<categoria idcat="0" titulo="0-500 mt2" imagen="images/home/foto1.jpg">
+	<item id="0" name="Remodelación Blue Palace" carpeta="proyectos/remodelacion-blue-palace/" foto="foto-categoria/foto.jpg" pdf="" video="" pais="flag-venezuela.png" />
+	<item id="1" name="Intervención Aula Especial" carpeta="proyectos/fe-alegria-aula1/" foto="foto-categoria/foto.jpg" pdf="" video="" pais="flag-bolivia.png" />
+	<item id="2" name="Ampliación Casa Escritora" carpeta="proyectos/ampliacion-casa-escritora/" foto="foto-categoria/foto.jpg" pdf="" video="https://www.youtube.com/watch?v=n-TTL6OSHEQ&amp;list=PLmR7wFzPndgunOD0tHKTUVIhRp8GNIAC2" pais="flag-bolivia.png" />
+	<item id="3" name="Casa Patio Urubo" carpeta="proyectos/casa-patio-urubo/" foto="foto-categoria/foto.jpg" pdf="" video="https://www.youtube.com/watch?v=_5OmLlleGp4&amp;list=PLmR7wFzPndgsIyP5D2I09KbD8NbHPHaHG" pais="flag-bolivia.png" />
+</categoria>
+<categoria idcat="1" titulo="501- 5000 mt2" imagen="images/home/foto2.jpg">
+	<item id="0" name="Biblioteca Mausoleo Simón Bolívar" carpeta="proyectos/mausoleo-biblioteca/" foto="foto-categoria/foto.jpg" pdf="" video="" pais="flag-venezuela.png" />
+	<item id="1" name="Casa de La Loma Urubo" carpeta="proyectos/casa-loma-urubo/" foto="foto-categoria/foto.jpg" pdf="" video="https://www.youtube.com/watch?v=d14VDoxW9UE&amp;list=PLmR7wFzPndgtJkWkTpi1eorWMYzY5aLON" pais="flag-bolivia.png" />
+	<item id="2" name="Plaza Anfiteatro" carpeta="proyectos/plaza-anfiteatro/" foto="foto-categoria/foto.jpg" pdf="" video="https://www.youtube.com/watch?v=ZzJ5dCodaJA&amp;list=PLmR7wFzPndgv5_ukOwxVrFKhmFu_vdxbL" pais="flag-venezuela.png" />
+	<item id="3" name="Condensador Social" carpeta="proyectos/condensador-social/" foto="foto-categoria/foto.jpg" pdf="" video="https://www.youtube.com/watch?v=3qMCYjTw-b0&amp;list=PLmR7wFzPndgvE7yDolYslYr0UVt1V2NFT" pais="flag-venezuela.png" />
+</categoria>
+<categoria idcat="2" titulo="5001- 50000 mt2" imagen="images/home/foto3.jpg">
+	<item id="0" name="Pabellón Shanghai 2010" carpeta="proyectos/pabellon-vzla-2010/" foto="foto-categoria/foto.jpg" pdf="" video="" pais="flag-china.png" />
+	<item id="1" name="Centro de Liderazgo" carpeta="proyectos/centro-liderazgo/" foto="foto-categoria/foto.jpg" pdf="" video="https://www.youtube.com/watch?v=RNBAKc23ALs&amp;list=PLmR7wFzPndgt_ZTxPAbDrXrFdKWtyGgMP" pais="flag-bolivia.png" />
+	<item id="2" name="Polideportivo Amazonas" carpeta="proyectos/alma-mater-amazonas-polideportivo/" foto="foto-categoria/foto.jpg" pdf="" video="" pais="flag-venezuela.png" />
+	<item id="3" name="F1 Universidad del Amazonas" carpeta="proyectos/universidad-amazonas/" foto="foto-categoria/foto.jpg" pdf="" video="" pais="flag-venezuela.png" />
+</categoria>
+<categoria idcat="3" titulo="50001 mt2 +" imagen="images/home/foto4.jpg">
+	<item id="0" name="Alma Mater Distrito Capital" carpeta="proyectos/alma-mater-capital/" foto="foto-categoria/foto.jpg" pdf="" video="" pais="flag-venezuela.png" />
+	<item id="1" name="Reestructuración Técnica INCES" carpeta="proyectos/inces-reestructuracion/" foto="foto-categoria/foto.jpg" pdf="" video="https://www.youtube.com/watch?v=9dfoq4SJ_48&amp;list=PLmR7wFzPndgvVuTIRwqKABT7AsxypdZqt" pais="flag-venezuela.png" />
+	<item id="2" name="Alma Mater del Amazonas" carpeta="proyectos/alma-mater-amazonas/" foto="foto-categoria/foto.jpg" pdf="" video="" pais="flag-venezuela.png" />
+	<item id="3" name="Urbanismo Sostenible Lomas del Urubó" carpeta="proyectos/urbanismo-urubo/" foto="foto-categoria/foto.jpg" pdf="" video="https://www.youtube.com/watch?v=ndIaiL4yyHA&amp;list=PLmR7wFzPndgsaxLRQHvG_FA_vKS_uLf4P" pais="flag-bolivia.png" />
+</categoria>
+</proyectos>

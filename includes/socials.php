@@ -1,0 +1,3 @@
+<div style="position:absolute; margin-top:45px; right:10px; z-index:1000;">
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FBaudoinArquitectos%2F&width=108&layout=button_count&action=like&size=small&show_faces=false&share=false&height=21&appId" width="120" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2FBaudoinArquitectos%2F&layout=button&size=small&mobile_iframe=true&width=81&height=20&appId" width="81" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</div>
